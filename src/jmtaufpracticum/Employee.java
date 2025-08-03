@@ -1,3 +1,5 @@
+package src.jmtaufpracticum;
+
 public class Employee {
     //represents employee
    private int employeeId;

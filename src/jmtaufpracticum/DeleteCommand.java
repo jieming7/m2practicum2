@@ -1,3 +1,5 @@
+package src.jmtaufpracticum;
+
 public class DeleteCommand implements Command {
     //command for deleting employee data
 

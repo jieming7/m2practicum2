@@ -1,3 +1,5 @@
+package src.jmtaufpracticum;
+
 import java.util.ArrayList;
 
 public class Receiver {
